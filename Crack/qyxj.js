@@ -1,8 +1,8 @@
 /*
 
 [rewrite_local]
-#轻颜相机vip
-https:\/\/commerce-api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info url script-response-body qyxj.js
+#轻颜相机vip by-Gökotta
+https:\/\/commerce-api\.faceu\.mobi\/commerce\/v1\/subscription\/user_info url script-response-body https://raw.githubusercontent.com/callmeheihei/Black/script/Crack/qyxj.js
 
 MITM = commerce-api.faceu.mobi
 
