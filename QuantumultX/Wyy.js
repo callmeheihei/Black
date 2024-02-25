@@ -1,6 +1,7 @@
 #网易云音乐 #会员解锁
 
-^https:\/\/interface3\.music\.163\.com\/eapi\/song\/enhance\/player\/url\/v1 url url script-request-header https://raw.githubusercontent.com/callmeheihei/Script/master/cloudmusic.js
+
+^http[s]?:\/\/.+music.+(player\/url|playlist|entrance|\/eapi\/search\/).*$ url script-request-header https://raw.githubusercontent.com/callmeheihei/Script/master/cloudmusic.js
 
 hostname = interface3.music.163.com
 
